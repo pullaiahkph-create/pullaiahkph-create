@@ -26,39 +26,35 @@
 
 </div>
 
----
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name        = "Pullaiah Karre"
-        self.role        = "AI Engineer & ML Practitioner"
-        self.college     = "Narayana Engineering College, Gudur"
-        self.degree      = "B.Tech CSE (AI & ML) — 4th Year"
-        self.location    = "📍 Andhra Pradesh, India"
-        self.email       = "pullaiahkph@gmail.com"
-        self.phone       = "+91 8074231454"
-        self.languages   = ["Python", "Java", "JavaScript", "SQL"]
-        self.passion     = "Building AI that matters 🤖"
+👋 Hi! I'm **Pullaiah Karre**, an aspiring **AI Engineer & ML Practitioner** from Andhra Pradesh, India.
+I'm currently in my **4th year of B.Tech in CSE (AI & ML)** at **Narayana Engineering College, Gudur**.
 
-    def currently_doing(self):
-        return {
-            "📚 Learning"  : "Transformers & LLM Architectures",
-            "🔬 Building"  : "AI-integrated Web Applications",
-            "🎯 Practicing": "DSA in Java for placement readiness",
-            "🌱 Exploring" : "NLP, Computer Vision & Generative AI",
-            "💬 Ask me"    : "ML, Python, Java, Web Dev",
-        }
+🤖 I'm passionate about building intelligent systems that solve real-world problems — from training
+deep learning models to deploying AI-powered web applications.
 
-    def fun_fact(self):
-        return "Every dataset has a story — I help it speak 🧠"
+🌱 Right now I'm diving deep into **Transformers & LLM Architectures**, exploring the frontiers of
+**NLP**, **Computer Vision**, and **Generative AI**.
 
-me = AIEngineer()
-```
+🎯 Alongside AI, I sharpen my problem-solving skills daily by practising **DSA in Java**,
+working towards placement readiness.
+
+💡 I believe every dataset has a story — and I help it speak.
+
+<br/>
+
+| 🏷️ | Details |
+|-----|---------|
+| 🎓 **Degree** | B.Tech CSE (AI & ML) — 4th Year |
+| 🏫 **College** | Narayana Engineering College, Gudur |
+| 📍 **Location** | Andhra Pradesh, India |
+| 💻 **Languages** | Python · Java · JavaScript · SQL |
+| 📧 **Email** | pullaiahkph@gmail.com |
+| 📱 **Phone** | +91 8074231454 |
+| 💬 **Ask me about** | ML, Python, Java, Web Dev |
 
 <br clear="right"/>
 
