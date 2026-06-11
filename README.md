@@ -9,11 +9,6 @@
 
 </div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&height=55&lines=🤖+AI+%26+ML+Engineer+in+the+Making;🧠+Building+Intelligent+Systems;🔬+Deep+Learning+%7C+NLP+%7C+Computer+Vision;🚀+Turning+Data+into+Decisions;💡+Exploring+Generative+AI+%26+LLMs" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <!-- SOCIAL BADGES -->
@@ -25,6 +20,14 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=pullaiahkarre&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/pullaiahkarre)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=640&height=50&lines=🤖+AI+%26+ML+Engineer+in+the+Making;🧠+Building+Intelligent+Systems;🔬+Deep+Learning+%7C+NLP+%7C+Computer+Vision;🚀+Turning+Data+into+Decisions;💡+Exploring+Generative+AI+%26+LLMs" alt="Typing SVG" />
+</div>
+
+---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
